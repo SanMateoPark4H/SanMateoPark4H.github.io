@@ -20,11 +20,8 @@ Content Goes Here
 
 A [Link](/projects) to XX Project.
 
-## YY Project
+## [YY Project](/)
 Content Goes Here
 
 
-
-
-A [Link](/projects) to YY Project.
-
+YY Project has a link in its project header!
