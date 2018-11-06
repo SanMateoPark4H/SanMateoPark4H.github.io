@@ -9,7 +9,7 @@ name:           'San Mateo Park 4-H'
 url:            https://SanMateoPark4H.github.io
 
 sidebar:
-  - title: 'San Mateo Park 4-H'
+  title: 'San Mateo Park 4-H'
   image: https://SanMateoPark4H.github.io/2lsyor.jpg
   image_alt: 'branding requirements are complex...'
   
