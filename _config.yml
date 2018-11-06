@@ -1,17 +1,11 @@
-title:            San Mateo Park 4-H Club
+title:            San Mateo Park 4-H
 tagline:          'A 4-H youth development club for ages 5-18 in the San Mateo area'
 image:            https://SanMateoPark4H.github.io/2lsyor.jpg
 description:      'A 4-H youth development club for ages 5-18 in the San Mateo area'
 url:              https://SanMateoPark4H.github.io
 baseurl:          /
 
-author:  
-name:           'San Mateo Park 4-H'
-url:            https://SanMateoPark4H.github.io
 
-sidebar:
-  title: 'San Mateo Park 4-H'
-  image_alt: 'branding requirements are complex...'
   
 
 theme: jekyll-theme-minimal
