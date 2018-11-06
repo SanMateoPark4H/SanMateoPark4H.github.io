@@ -1,1 +1,31 @@
-theme: jekyll-theme-slate
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
+
+
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            San Mateo Park 4-H Club
+tagline:          'A 4-H youth development club for ages 5-18 in the San Mateo area'
+description:      'Innehåll på 4H'
+url:              https://SanMateoPark4H.github.io
+baseurl:          /
+
+author:  
+name:           'San Mateo Park 4-H'
+url:            https://SanMateoPark4H.github.io
+
+paginate:         1
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/SanMateoPark4H/SanMateoPark4H.github.io
