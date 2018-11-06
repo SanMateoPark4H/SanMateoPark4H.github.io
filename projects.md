@@ -2,23 +2,18 @@
 # Projects
 
 ## XX Project
-Innehåll på XX Project.
+Content Goes Here
 
-Innehåll på XX Project.
 
-Innehåll på XX Project.
 
-Innehåll på XX Project.
 
-En [Länk](/projects) till XX Project.
+A [Link](/projects) to XX Project.
 
 ## YY Project
+Content Goes Here
 
-Innehåll på YY Project.
-Innehåll på YY Project.
 
-Innehåll på YY Project.
-Innehåll på YY Project.
 
-En [Länk](/projects) till YY Project.
+
+A [Link](/projects) to YY Project.
 
